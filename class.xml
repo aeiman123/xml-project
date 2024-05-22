@@ -1,0 +1,17 @@
+<classes
+    xmlns:c9="example.com" 
+    xmlns:c10="example.com">
+    <c9:student>
+        <c9:name>Ali</c9:name>
+        <c9:age>22</c9:age>
+        <c9:class>10</c9:class>
+        <fees>3500</fees>
+    </c9:student>
+
+    <c10:student>
+        <c10:name>Ali</c10:name>
+        <c10:age>22</c10:age>
+        <c10:class>10</c10:class>
+        <fees>4000</fees>
+    </c10:student>
+</classes>

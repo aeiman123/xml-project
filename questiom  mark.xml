@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE  Student[
+    <!ELEMENT Student (name?,age)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+   
+]>
+<Student>
+    <name>Ali</name>
+    <age>23</age>
+   
+</Student>
+    

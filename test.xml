@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mail SYSTEM "test.dtd">
+
+<mail>
+    
+    <from>Aeman</from>
+    <to>Ali</to>
+    <msg>abc</msg>
+
+</mail>
